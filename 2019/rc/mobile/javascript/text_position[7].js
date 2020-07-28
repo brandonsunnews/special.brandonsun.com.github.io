@@ -1,0 +1,1 @@
+﻿positionForPages[7]={page:7,positions:[{word:"GOLD",left:0.491476,top:0.144728,width:0.036813,height:0.012758},{word:"Best Entertainment Venue",left:0.417134,top:0.158226,width:0.185503,height:0.012758}]};

@@ -1,0 +1,1 @@
+﻿positionForPages[129]={page:129,positions:[{word:"129",left:0.906347,top:0.925139,width:0.024857,height:0.013333},{word:"ColourfulGame_Layout 1  18-07-20  5:42 PM  Page 2",left:0.019047,top:-0.01823,width:0.234781,height:0.008810}]};

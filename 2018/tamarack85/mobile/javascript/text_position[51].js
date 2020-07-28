@@ -1,0 +1,1 @@
+﻿positionForPages[51]={page:51,positions:[{word:"3708128_SuperThrifty_Layout 1  18-07-18  2:32 PM  Page 1",left:0.019047,top:-0.01823,width:0.268597,height:0.008810}]};

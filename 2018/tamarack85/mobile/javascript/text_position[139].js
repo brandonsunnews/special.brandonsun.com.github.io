@@ -1,0 +1,1 @@
+﻿positionForPages[139]={page:139,positions:[{word:"3708737_Crane_Layout 1  18-07-19  4:50 PM  Page 1",left:0.019047,top:-0.01823,width:0.241092,height:0.008810}]};

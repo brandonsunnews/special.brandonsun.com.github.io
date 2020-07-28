@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"2017 SPECIAL SUPPLEMENT",left:0.604176,top:0.677902,width:0.160952,height:0.009443},{word:"March 27 — April 1, 2017",left:0.352905,top:0.052545,width:0.579568,height:0.042139},{word:"KE Y S T ONE  CENTRE ,  B R ANDON ,  MANIT OBA",left:0.388123,top:0.089287,width:0.509256,height:0.020255}]};

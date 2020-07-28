@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"2019 Special Supplement",left:0.283077,top:0.915483,width:0.221861,height:0.018759},{word:"Lake Life",left:0.192831,top:0.247278,width:0.604879,height:0.139459}]};

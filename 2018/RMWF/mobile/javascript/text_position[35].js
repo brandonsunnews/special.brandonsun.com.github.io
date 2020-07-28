@@ -1,0 +1,1 @@
+﻿positionForPages[35]={page:35,positions:[{word:"assiniboine.net",left:0.293675,top:0.918328,width:0.197492,height:0.027121}]};

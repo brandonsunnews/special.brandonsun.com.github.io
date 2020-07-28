@@ -1,0 +1,1 @@
+﻿positionForPages[5]={page:5,positions:[{word:"(Formerly Kitchen Gallery)",left:0.506838,top:0.634775,width:0.183259,height:0.013728}]};

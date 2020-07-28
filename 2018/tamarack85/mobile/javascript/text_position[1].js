@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"Cover_Layout 1  18-07-23  11:25 AM  Page 1",left:0.019047,top:-0.01823,width:0.199517,height:0.008810}]};

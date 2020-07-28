@@ -1,0 +1,1 @@
+﻿positionForPages[140]={page:140,positions:[{word:"3708658_SandhillsCasino_Layout 1  18-07-20  12:43 PM  Page 1",left:0.019047,top:-0.01823,width:0.292546,height:0.008810}]};

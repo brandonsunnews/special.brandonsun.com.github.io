@@ -1,0 +1,1 @@
+﻿positionForPages[3]={page:3,positions:[{word:"www.bdo.ca",left:0.195000,top:0.890110,width:0.129414,height:0.009661}]};

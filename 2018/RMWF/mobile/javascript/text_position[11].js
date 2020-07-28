@@ -1,0 +1,1 @@
+﻿positionForPages[11]={page:11,positions:[{word:"BrandonU.ca/",left:0.105983,top:0.803878,width:0.238367,height:0.028651},{word:"Homecoming",left:0.343936,top:0.803878,width:0.236270,height:0.028651}]};

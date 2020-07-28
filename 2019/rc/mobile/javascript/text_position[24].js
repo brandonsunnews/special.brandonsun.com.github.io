@@ -1,0 +1,1 @@
+﻿positionForPages[24]={page:24,positions:[{word:"GOLD",left:0.752648,top:0.156792,width:0.024312,height:0.008426},{word:"Best Financial Institution",left:0.706529,top:0.165708,width:0.116546,height:0.008426}]};

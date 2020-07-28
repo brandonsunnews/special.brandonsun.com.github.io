@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"2019 WESTMAN",left:0.296489,top:0.303141,width:0.406947,height:0.052508},{word:"BUSINESS",left:0.146004,top:0.340072,width:0.707739,height:0.124731},{word:"2019 SPECIAL SUPPLEMENT",left:0.754322,top:0.745679,width:0.136531,height:0.013053}]};

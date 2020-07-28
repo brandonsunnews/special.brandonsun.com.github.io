@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"2019 SPECIAL SUPPLEMENT",left:0.415390,top:0.645055,width:0.168316,height:0.017903}]};

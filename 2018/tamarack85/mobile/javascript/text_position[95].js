@@ -1,0 +1,1 @@
+﻿positionForPages[95]={page:95,positions:[{word:"#",left:0.918305,top:0.949879,width:0.008529,height:0.013636},{word:"TAMARACK_2000-09_Layout 1  18-07-23  10:42 AM  Page 12",left:0.004902,top:-0.03001,width:0.280838,height:0.009010}]};

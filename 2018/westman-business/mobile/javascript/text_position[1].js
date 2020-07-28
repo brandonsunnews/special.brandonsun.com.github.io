@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"2018 Special Supplement",left:0.592323,top:0.348579,width:0.316932,height:0.023960},{word:"Westman",left:0.479118,top:0.374268,width:0.437923,height:0.090330},{word:"Business",left:0.332315,top:0.434174,width:0.587614,height:0.120382}]};

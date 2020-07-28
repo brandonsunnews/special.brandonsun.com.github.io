@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"March 26 — March 31, 2018   ",left:0.052223,top:0.032931,width:0.661367,height:0.050594},{word:"Keystone Centre, Brandon, Manitoba",left:0.106475,top:0.089116,width:0.521897,height:0.018475},{word:"2018 SPECIAL SUPPLEMENT",left:0.574359,top:0.664368,width:0.250871,height:0.024419}]};
