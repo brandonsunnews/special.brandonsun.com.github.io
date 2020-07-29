@@ -1,0 +1,1 @@
+﻿positionForPages[18]={page:18,positions:[{word:"18",left:0.047742,top:0.950582,width:0.018125,height:0.014286},{word:"Artistry_Tattoos_Layout 1  17-12-06  5:26 PM  Page 1",left:0.005208,top:-0.04386,width:0.332736,height:0.010571}]};

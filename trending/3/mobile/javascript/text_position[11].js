@@ -1,0 +1,1 @@
+﻿positionForPages[11]={page:11,positions:[{word:"11",left:0.933376,top:0.951190,width:0.018125,height:0.013298},{word:"3635 VICTORIA AVENUE, BRANDON • 204-727-4444 • Toll Free 1-800-267-4441",left:0.422605,top:0.933927,width:0.493063,height:0.015870},{word:"3706324_Leons_Layout 1  18-06-11  11:16 AM  Page 1",left:0.005208,top:-0.04312,width:0.342820,height:0.011717}]};

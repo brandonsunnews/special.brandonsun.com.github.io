@@ -1,0 +1,1 @@
+﻿positionForPages[23]={page:23,positions:[{word:"3700296_BU_Layout 1  17-12-06  5:27 PM  Page 1",left:0.005208,top:-0.04386,width:0.316556,height:0.010571}]};

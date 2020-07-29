@@ -1,0 +1,1 @@
+﻿positionForPages[20]={page:20,positions:[{word:"Beautiful Burgers_Layout 1  18-09-18  2:43 PM  Page 1",left:0.034314,top:-0.01865,width:0.254745,height:0.009011}]};

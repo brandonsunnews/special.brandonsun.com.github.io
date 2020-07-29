@@ -1,0 +1,1 @@
+﻿positionForPages[6]={page:6,positions:[{word:"Westoba_CAA_Layout 1  17-12-06  3:37 PM  Page 1",left:0.005208,top:-0.04386,width:0.326570,height:0.010571}]};

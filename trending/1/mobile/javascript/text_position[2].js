@@ -1,0 +1,1 @@
+﻿positionForPages[2]={page:2,positions:[{word:"3700294_AdvancedHearing_Layout 1  17-12-06  3:11 PM  Page 1",left:0.005208,top:-0.04386,width:0.407653,height:0.010571}]};

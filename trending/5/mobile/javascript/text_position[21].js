@@ -1,0 +1,1 @@
+﻿positionForPages[21]={page:21,positions:[{word:"Story \& Photos by Chelsea Kemp",left:0.661485,top:0.349024,width:0.217188,height:0.014286},{word:"Dashing Through The Snow_Layout 1  18-12-04  2:22 PM  Page 1",left:0.005208,top:-0.04365,width:0.345042,height:0.010222}]};

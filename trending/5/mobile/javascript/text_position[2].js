@@ -1,0 +1,1 @@
+﻿positionForPages[2]={page:2,positions:[{word:"3714297_BdnEconDev_Layout 1  18-11-29  9:57 AM  Page 1",left:0.005208,top:-0.04335,width:0.295320,height:0.009439}]};

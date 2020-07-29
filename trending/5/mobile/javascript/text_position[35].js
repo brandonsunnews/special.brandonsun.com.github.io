@@ -1,0 +1,1 @@
+﻿positionForPages[35]={page:35,positions:[{word:"3714542_BrandonUniversity_Layout 1  18-12-04  3:06 PM  Page 1",left:0.005208,top:-0.04365,width:0.350820,height:0.010222}]};
